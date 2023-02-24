@@ -76,4 +76,4 @@ const searchButton = () => {
   console.log("clicked", input);
 };
 
-allMeal("rice");
+allMeal("fish");
